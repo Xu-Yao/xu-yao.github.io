@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Nonlinear
 venue: "ICIP"
 date: 2021-9-22
-citation: 'Xu Yao, Gilles Puy, Alasdair Newson, Yann Gousseau, Pierre Hellier. <i>ArXiv 2020.</i>'
+citation: 'Xu Yao, Gilles Puy, Alasdair Newson, Yann Gousseau, Pierre Hellier. <i>ICIP 2021.</i>'
 ---
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9506060)
 

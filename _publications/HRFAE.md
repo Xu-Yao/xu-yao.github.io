@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/HRFAE
 venue: "ICPR"
 date: 2020-12-31
-citation: 'Xu Yao, Gilles Puy, Alasdair Newson, Yann Gousseau, Pierre Hellier. <i>ArXiv 2020.</i>'
+citation: 'Xu Yao, Gilles Puy, Alasdair Newson, Yann Gousseau, Pierre Hellier. <i>ICPR 2020.</i>'
 ---
 [[PDF]](https://arxiv.org/pdf/2005.04410.pdf)
 
