@@ -1,5 +1,5 @@
 ---
-title: "A Latent Transformer for Disentangled Face Editing in Images and Videos"
+title: "Feature-Style Encoder for Style-Based GAN Inversion"
 collection: publications
 permalink: /publications/feature_style_encoder
 venue: "submitted to CVPR"
