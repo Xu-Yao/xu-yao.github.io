@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/latenttrans
 venue: "ICCV"
 date: 2021-10-10
-citation: 'Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier. <i>ICCV 2021.</i>'
+citation: 'Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier <br /> <i>ICCV 2021</i>'
 ---
 [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_A_Latent_Transformer_for_Disentangled_Face_Editing_in_Images_and_ICCV_2021_paper.pdf)
 

@@ -3,8 +3,8 @@ title: "Learning Non-Linear Disentangled Editing For StyleGAN"
 collection: publications
 permalink: /publications/Nonlinear
 venue: "ICIP"
-date: 2021-9-22
-citation: 'Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier. <i>ICIP 2021.</i>'
+date: 2021-09-22
+citation: 'Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier <br /> <i>ICIP 2021</i>'
 ---
 [[PDF]](https://xu-yao.github.io/files/2021ICIP_Disentanglement_final_version.pdf)
 

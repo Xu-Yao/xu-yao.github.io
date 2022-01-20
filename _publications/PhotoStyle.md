@@ -3,8 +3,8 @@ title: "Photo style transfer with consistency losses"
 collection: publications
 permalink: /publications/PhotoStyle
 venue: "ICIP"
-date: 2019-9-22
-citation: 'Xu Yao, Gilles Puy, and Patrick Pérez. 2019 IEEE International Conference on Image Processing. <i>ICIP 2019.</i>'
+date: 2019-09-22
+citation: 'Xu Yao, Gilles Puy, and Patrick Pérez <br /> <i>ICIP 2019</i>'
 ---
 [[PDF]](https://arxiv.org/pdf/2005.04408.pdf)
 

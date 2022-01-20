@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/feature_style_encoder
 venue: "submitted to CVPR"
 date: 2021-12-06
-citation: 'Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier. <i>arxiv 2021.</i>'
+citation: 'Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier <br /> submitted to <i>CVPR 2022</i>'
 ---
 [[PDF]](https://xu-yao.github.io/files/Feature_Style_Encoder_for_Style_Based_GAN_Inversion_arxiv.pdf)
 
