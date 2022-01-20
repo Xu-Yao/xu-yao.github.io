@@ -3,13 +3,15 @@ layout: compress
 ---
 
 {% include base_path %}
-a {text-decoration:none;}
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+      a { text-decoration: none; }
+    </style>
   </head>
 
   <body>
