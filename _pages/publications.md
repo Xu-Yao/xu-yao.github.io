@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-======
+
+
+
 [Feature-Style Encoder for Style-Based GAN Inversion](https://xu-yao.github.io/files/Feature_Style_Encoder_for_Style_Based_GAN_Inversion_arxiv.pdf)  
 Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier \
 submitted to *CVPR 2022* 
