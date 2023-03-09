@@ -8,9 +8,9 @@ author_profile: true
 
 
 
-[Feature-Style Encoder for Style-Based GAN Inversion](https://xu-yao.github.io/files/Feature_Style_Encoder_for_Style_Based_GAN_Inversion_arxiv.pdf)  
+[A style-based gan encoder for high fidelity reconstruction of images and videos](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750579.pdf)  
 Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier \
-submitted to *CVPR 2022* 
+*ECCV 2022* [[code](https://github.com/InterDigitalInc/FeatureStyleEncoder)]
 
 [A Latent Transformer for Disentangled Face Editing in Images and Videos](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_A_Latent_Transformer_for_Disentangled_Face_Editing_in_Images_and_ICCV_2021_paper.pdf)  
 Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier \
