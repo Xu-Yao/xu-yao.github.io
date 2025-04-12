@@ -55,7 +55,6 @@ author_profile: true
   }
 </style>
 
----
 
 <div class="publication">
   <div class="pub-media">
