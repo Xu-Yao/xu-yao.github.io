@@ -73,6 +73,7 @@ author_profile: true
 </div>
 
 ---
+
 <div class="publication">
   <div class="pub-media">
     <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750579.pdf" target="_blank">
@@ -87,6 +88,8 @@ author_profile: true
     <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750579.pdf">Paper</a>
   </div>
 </div>
+
+---
 
 <div class="publication">
   <div class="pub-media">
@@ -106,6 +109,8 @@ author_profile: true
   </div>
 </div>
 
+---
+
 <div class="publication">
   <div class="pub-media">
     <a href="https://xu-yao.github.io/files/2021ICIP_Disentanglement_final_version.pdf" target="_blank">
@@ -119,6 +124,8 @@ author_profile: true
     <a href="https://xu-yao.github.io/files/2021ICIP_Disentanglement_final_version.pdf">Paper</a>
   </div>
 </div>
+
+---
 
 <div class="publication">
   <div class="pub-media">
@@ -134,6 +141,8 @@ author_profile: true
     <a href="https://arxiv.org/pdf/2005.04410.pdf">Paper</a>
   </div>
 </div>
+
+---
 
 <div class="publication">
   <div class="pub-media">
