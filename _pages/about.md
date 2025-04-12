@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a senior research scientist at [Flawless](https://www.flawlessai.com/) working on generative AI technologies for visual dubbing. Prior to this, I was a Cifre PhD researcher at [InterDigtial R&D](https://www.interdigital.com/research-and-innovation) working on deep learning algorithms for face editing in 4K movies. I obtained my Ph.D. from [Telecom Paris](https://www.telecom-paris.fr/en/home) in 2022. I received my M.Sc. from [Mines Paris](http://www.mines-paristech.fr/) and my B.Sc from [Fudan University](https://www.fudan.edu.cn/en/).
+I am a Senior Research Scientist at [Flawless](https://www.flawlessai.com/) working on generative AI technologies for visual dubbing. Prior to this, I was a Cifre PhD researcher at [InterDigtial R&D](https://www.interdigital.com/research-and-innovation) working on deep learning algorithms for face editing in 4K movies. I obtained my Ph.D. from [Telecom Paris](https://www.telecom-paris.fr/en/home) in 2022. I received my M.Sc. from [Mines Paris](https://www.minesparis.psl.eu/en/home/) and my B.Sc from [Fudan University](https://www.fudan.edu.cn/en/).
 
 My research interests lie in the general area of image and video synthesis, generative modeling, diffusion models and latent space interpretation. My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03788218) was on face editing in high resolution videos using deep learning methods.
 
